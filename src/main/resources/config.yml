@@ -1,0 +1,298 @@
+tpSound: ENTITY_ENDERMAN_TELEPORT
+locations:
+  '0':
+    ==: org.bukkit.Location
+    world: arene
+    x: -1.718331866889907
+    y: 74.0
+    z: 86.13182227948519
+    pitch: 5.250064
+    yaw: -179.84692
+  '1':
+    ==: org.bukkit.Location
+    world: arene
+    x: 0.9596258887272799
+    y: 75.0
+    z: 59.86397750124448
+    pitch: -1.7999294
+    yaw: -134.54834
+  '2':
+    ==: org.bukkit.Location
+    world: arene
+    x: 43.57226019136249
+    y: 74.0
+    z: 50.08033074083318
+    pitch: -1.6499332
+    yaw: -20.8479
+  '3':
+    ==: org.bukkit.Location
+    world: arene
+    x: 70.1157837097743
+    y: 76.0
+    z: 22.142067769329866
+    pitch: 1.3500692
+    yaw: -231.59766
+  '4':
+    ==: org.bukkit.Location
+    world: arene
+    x: 114.23464442670289
+    y: 75.0
+    z: -15.239416275146326
+    pitch: -2.2499523
+    yaw: -263.09424
+  '5':
+    ==: org.bukkit.Location
+    world: arene
+    x: -32.32766665767243
+    y: 74.0
+    z: 3.210702066628534
+    pitch: -6.2999988
+    yaw: -136.64758
+  '6':
+    ==: org.bukkit.Location
+    world: arene
+    x: -156.62684059885106
+    y: 79.0
+    z: 6.671735582503191
+    pitch: -4.231334E-5
+    yaw: -61.202637
+  '7':
+    ==: org.bukkit.Location
+    world: arene
+    x: -156.12376932875512
+    y: 75.0
+    z: 41.210933743399174
+    pitch: -8.550065
+    yaw: -129.75098
+  '8':
+    ==: org.bukkit.Location
+    world: arene
+    x: -123.9864196969718
+    y: 74.0
+    z: 65.68169950727597
+    pitch: -4.650062
+    yaw: -324.15845
+  '9':
+    ==: org.bukkit.Location
+    world: arene
+    x: -161.62670301181276
+    y: 75.0
+    z: 81.82171968503216
+    pitch: -2.8500793
+    yaw: -51.159668
+  '10':
+    ==: org.bukkit.Location
+    world: arene
+    x: -143.93700607908167
+    y: 108.0
+    z: 162.49517661282692
+    pitch: 0.7499
+    yaw: -90.46094
+  '11':
+    ==: org.bukkit.Location
+    world: arene
+    x: -92.49282835296049
+    y: 80.0
+    z: 183.68062293830033
+    pitch: 3.1499314
+    yaw: -165.46484
+  '12':
+    ==: org.bukkit.Location
+    world: arene
+    x: -135.26622400239862
+    y: 86.0
+    z: 218.3209180304583
+    pitch: 4.018451
+    yaw: -270.38184
+  '13':
+    ==: org.bukkit.Location
+    world: arene
+    x: -152.5036080227782
+    y: 88.0
+    z: 254.84631854013108
+    pitch: 2.668446
+    yaw: -127.57788
+  '14':
+    ==: org.bukkit.Location
+    world: arene
+    x: -9.453737035462582
+    y: 83.0
+    z: 206.69195123867007
+    pitch: -0.9315713
+    yaw: -271.2798
+  '15':
+    ==: org.bukkit.Location
+    world: arene
+    x: 9.596413920312033
+    y: 73.0
+    z: 221.66725368907532
+    pitch: -2.7315388
+    yaw: -80.180664
+  '16':
+    ==: org.bukkit.Location
+    world: arene
+    x: -35.71786901976165
+    y: 72.0
+    z: 228.39698835657285
+    pitch: -0.6315405
+    yaw: -244.13501
+  '17':
+    ==: org.bukkit.Location
+    world: arene
+    x: 87.54829724011208
+    y: 77.0625
+    z: 248.18411131459732
+    pitch: 3.268452
+    yaw: -227.33813
+  '18':
+    ==: org.bukkit.Location
+    world: arene
+    x: 115.55703352203899
+    y: 79.125
+    z: 174.17728600965532
+    pitch: 1.7684178
+    yaw: -301.58862
+  '19':
+    ==: org.bukkit.Location
+    world: arene
+    x: 83.01714651548512
+    y: 81.0
+    z: 169.29488926271927
+    pitch: 13.018424
+    yaw: -104.188965
+  '20':
+    ==: org.bukkit.Location
+    world: arene
+    x: 122.33069798233021
+    y: 71.0
+    z: 118.02927468837649
+    pitch: -18.631598
+    yaw: -217.8855
+  '21':
+    ==: org.bukkit.Location
+    world: arene
+    x: 122.5
+    y: 72.0
+    z: 18.5
+    pitch: 0.7184044
+    yaw: -319.72876
+  '22':
+    ==: org.bukkit.Location
+    world: arene
+    x: 70.38761271230419
+    y: 76.0
+    z: 23.270818913889833
+    pitch: -1.081607
+    yaw: -18.231201
+  '23':
+    ==: org.bukkit.Location
+    world: arene
+    x: 34.69999998807907
+    y: 77.0
+    z: 101.52155168408174
+    pitch: 13.1684
+    yaw: -238.27734
+  '24':
+    ==: org.bukkit.Location
+    world: arene
+    x: -48.42510600774299
+    y: 75.0
+    z: 67.47237535949264
+    pitch: 1.168401
+    yaw: -227.92163
+  '25':
+    ==: org.bukkit.Location
+    world: arene
+    x: -64.90787226641568
+    y: 88.0
+    z: -39.28641886836655
+    pitch: 15.418373
+    yaw: -339.5144
+  '26':
+    ==: org.bukkit.Location
+    world: arene
+    x: -64.5708774014461
+    y: 72.0
+    z: 176.44265877237063
+    pitch: -1.6816305
+    yaw: -358.1128
+  '27':
+    ==: org.bukkit.Location
+    world: arene
+    x: -81.35307666095758
+    y: 78.0
+    z: 157.9346400328564
+    pitch: -0.6315989
+    yaw: -204.06104
+  '28':
+    ==: org.bukkit.Location
+    world: arene
+    x: -96.52291872140756
+    y: 73.0
+    z: 72.02690535388514
+    pitch: -3.7196798
+    yaw: -326.42773
+  '29':
+    ==: org.bukkit.Location
+    world: arene
+    x: 47.55265360117722
+    y: 75.0
+    z: -32.66967408552051
+    pitch: -0.1196921
+    yaw: -279.9275
+  '30':
+    ==: org.bukkit.Location
+    world: arene
+    x: 98.53767195796006
+    y: 72.0
+    z: 68.91686563612599
+    pitch: -2.9697125
+    yaw: -141.17627
+  '31':
+    ==: org.bukkit.Location
+    world: arene
+    x: 105.17787971628118
+    y: 81.0
+    z: 223.16110771428134
+    pitch: 0.4802921
+    yaw: -135.1814
+  '32':
+    ==: org.bukkit.Location
+    world: arene
+    x: 41.54380213535082
+    y: 71.0
+    z: 154.98873898794312
+    pitch: -8.219713
+    yaw: -22.08081
+  '33':
+    ==: org.bukkit.Location
+    world: arene
+    x: -121.11486950457217
+    y: 74.0
+    z: 164.53825471252728
+    pitch: -2.9696875
+    yaw: -324.177
+  '34':
+    ==: org.bukkit.Location
+    world: arene
+    x: -115.74601604679061
+    y: 87.0
+    z: 192.21129118881365
+    pitch: 5.430319
+    yaw: -45.6333
+  '35':
+    ==: org.bukkit.Location
+    world: arene
+    x: -152.4515517727927
+    y: 88.0
+    z: 218.14357737847124
+    pitch: -1.3197206
+    yaw: -25.353516
+  '36':
+    ==: org.bukkit.Location
+    world: arene
+    x: -167.38233246408907
+    y: 88.0
+    z: 241.69999998807907
+    pitch: 1.8302457
+    yaw: -115.95557
